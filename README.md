@@ -16,22 +16,23 @@ timeLabel: null // optional string added to left of time select
 i18n: {
   en: {
     midnight: '', // Label for 0 AM
-    noon: '', // Label for 12 AM
+    noon: '' // Label for 12 AM
   }
 }
 ```
 
-### Time support added to [dbushell/Pikaday][david Pika]
+### Modified Pikaday with Time Picker
+Pikaday with Time Picker by [Owen Mead][owenmead] modified for use in projects by [John Baltao (Malkuthe)][malkuthe] both personal and for [Dreamscapewebdesign][dreamscapewebdesign]
 
-This fork allows the user to specify the time along with their date. Done so by adding a couple select inputs to manipulate the date Pikaday is generating.
-* Used to set time aspects of date.
-* Will not change the currently selected date.
-* If no date is selected, will select today. Any of the arguments may be null, and will not affect the date.
+## Author
+* John Baltao (Malkuthe) [http://malkuthe.com][malkuthe]
 
+## Credit
 
-## Authors
-
-* Owen Mead-Robins [http://www.owenmead.com/][owenmead]
+* David Bushell (Pikaday)    [http://www.dbushell.com][david Pika]
+* Owen Mead-Robins (Pikaday with Time Picker) [http://www.owenmead.com/][owenmead]
 
 [david Pika]:   https://github.com/dbushell/Pikaday                              "Pikaday"
 [owenmead]:     http://owenmead.com/                                             "owenmead.com"
+[malkuthe]:     http://malkuthe.com                                              "Malkuthe"
+[dreamscapewebdesign]: http://dreamscapewebdesign.com                            "Dreamscape Webdesign"

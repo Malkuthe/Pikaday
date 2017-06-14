@@ -1,7 +1,7 @@
 {
-  "name": "pikaday-time",
+  "name": "malkuthe-pikaday",
   "version": "1.5.1",
-  "description": "Time support added to pikaday",
+  "description": "pikaday-time modified for use in projects by Malkuthe",
   "keywords": [
     "datepicker",
     "calendar",
@@ -10,7 +10,7 @@
     "datetime"
   ],
   "homepage": "http://dbushell.github.io/Pikaday/",
-  "bugs": "https://github.com/owenmead/Pikaday/issues",
+  "bugs": "https://github.com/malkuthe/Pikaday/issues",
   "licenses": [
     {
       "type": "BSD",
@@ -24,7 +24,7 @@
   "main": "pikaday.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/owenmead/Pikaday.git"
+    "url": "https://github.com/malkuthe/Pikaday.git"
   },
   "optionalDependencies": {
     "moment": "2.x"
